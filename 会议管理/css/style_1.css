@@ -1,0 +1,22 @@
+
+ul li{
+margin-top:10px;
+list-style:none;
+width:70px;
+height:25px;
+
+background-color:#CCCCCC;
+}
+li:hover{
+background-color:#999999;
+}
+.w{
+width:10px;
+height:8px;
+
+}
+tr{
+width:10px;
+height:8px;
+
+}
